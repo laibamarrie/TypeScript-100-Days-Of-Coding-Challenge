@@ -1,3 +1,4 @@
+"use strict";
 // 2. Personal Message: Store a person's name in a variable, and print a message to that person. Your message 
 //should be simple,such as,"Hello Eric,would you like to learn some python today?"
 let personName = "Eric";
@@ -11,4 +12,3 @@ console.log("lowercase:", secondpersonName.toLowerCase());
 console.log("uppercase:", secondpersonName.toUpperCase());
 // titlecase
 console.log("titlecase:", secondpersonName.replace(/\b\w/g, c => c.toUpperCase()));
-export {};
