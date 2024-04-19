@@ -1,0 +1,15 @@
+{
+  "name": "day-6",
+  "version": "1.0.0",
+  "description": "Day 6 Challenge from 100 Days of Coding Challenge.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laiba Marrie",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  }
+}
