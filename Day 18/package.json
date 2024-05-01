@@ -1,0 +1,18 @@
+{
+  "name": "day-18",
+  "version": "1.0.0",
+  "description": "Day 18 challenge from 100 Days of Coding Challenge.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laiba Marrie",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
